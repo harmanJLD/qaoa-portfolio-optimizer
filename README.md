@@ -156,7 +156,7 @@ Annualized expected return, volatility and correlation for 8 SPDR sector ETFs, c
 
 - No prior code, templates or forked projects were used. All code was written during the hackathon window.
 - Libraries: Qiskit, NumPy, SciPy and Matplotlib (in the project); qiskit-aer and yfinance (in the off-platform tools).
-- Built with help from AI coding tools.
+
 
 **License**
 
