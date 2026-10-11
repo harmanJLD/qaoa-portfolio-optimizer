@@ -1,5 +1,7 @@
 **Budget-Preserving QAOA for Portfolio Selection: 21x better than standard QAOA on real market data, and the constraint doubles as free error detection**
 
+*This effort is supported by Qollab & IonQ.* Built for the Qollab × IonQ Global Quantum Hackathon 2026 (team The Quantubians).
+
 ![Results](thumbnail.png)
 
 
