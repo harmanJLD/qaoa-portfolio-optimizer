@@ -1,6 +1,6 @@
 **Budget-Preserving QAOA for Portfolio Selection: 21x better than standard QAOA on real market data, and the constraint doubles as free error detection**
 
-![Results](docs/thumbnail.png)
+![Results](thumbnail.png)
 
 
 Theme: **Quantum Impact**
@@ -64,7 +64,7 @@ This project fixes that by building the rule into the circuit itself, then shows
 
 **Dashboard from one run (built-in simulator)**
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](dashboard.png)
 
 **What one run produces**
 
